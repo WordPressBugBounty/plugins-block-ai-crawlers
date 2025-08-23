@@ -4,7 +4,7 @@ Tags: ai, robots.txt, chatgpt, crawlers
 Requires at least: 5.6
 Tested up to: 6.8
 Requires PHP: 7.4
-Stable tag: 1.5.1
+Stable tag: 1.5.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,6 +98,20 @@ No. Search engines follow different `robots.txt` rules.
 
 
 == Changelog ==
+
+= 1.5.2 =
+- New: Block Yak
+- New: Block Bigsur.ai
+- New: Block AddSearchBot
+- New: Block Google Agents
+- New: Block Thinkbot
+- New: Block Posideon Research Center
+- New: Block EchoboxBot
+- New: Block Bedrockbot
+- New: Block Panscient
+- New: Block SBIntuitionsBot
+- New: Block PhindBot
+- New: Block YandexAdditional
 
 = 1.5.1 =
 - New: Block aiHitBot
