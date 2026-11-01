@@ -1,10 +1,10 @@
 === Block AI Crawlers ===
 Contributors: lastsplash
 Tags: ai, robots.txt, chatgpt, crawlers
-Requires at least: 6.9
+Requires at least: 7.0
 Tested up to: 7.1
 Requires PHP: 8.2
-Stable tag: 1.6.2
+Stable tag: 1.6.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -108,6 +108,12 @@ You can test by running the following on the command line:
 
 
 == Changelog ==
+
+= 1.6.3 - 11/01/2026 =
+- Add: Sync blocked crawler list from ai.robots.txt (39 new crawlers)
+- Update: Require WordPress 7.0 or later
+- Fix: Declare minimum WordPress and PHP versions in the plugin header so WordPress enforces them
+- Fix: Cleanup Plugin Check messages
 
 = 1.6.2 =
 * Tested up to WordPress 7.1.
